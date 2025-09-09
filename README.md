@@ -1,7 +1,6 @@
 # Line Follower FSM Simulation
 
-This project is a simple **line follower robot simulation** built with **Python** and **Pygame**, using a **Finite State Machine (FSM)** for robot behavior control.  
-The robot can detect a black line using left and right sensors, then decide whether to move forward, turn left, or turn right based on the FSM.
+This project is a simple **line follower robot simulation** built with **Python** and **Pygame**, using a **Finite State Machine (FSM)** for robot behavior control. The robot can detect a black line using left and right sensors, then decide whether to move forward, turn left, or turn right based on the FSM.
 
 ---
 
